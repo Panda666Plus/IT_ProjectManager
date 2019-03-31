@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IT_ProjectManager">
+</Property><Property Name="解决方案文件" Value="E:\prj29\prj\IT_ProjectManager\IT_ProjectManager.sln">
+</Property><Property Name="用户选项文件" Value="E:\prj29\prj\IT_ProjectManager\IT_ProjectManager.suo">
+</Property><Property Name="Date" Value="2016年8月1日">
+</Property><Property Name="Time" Value="11:35">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IT_ProjectManager.sln" Description="文件已成功备份为 E:\prj29\prj\IT_ProjectManager\Backup\IT_ProjectManager.sln">
+</Event><Event ErrorLevel="0" Project="" Source="IT_ProjectManager.suo" Description="文件已成功备份为 E:\prj29\prj\IT_ProjectManager\Backup\IT_ProjectManager.suo">
+</Event><Event ErrorLevel="2" Project="IT_ProjectManager" Source="IT_ProjectManager\IT_ProjectManager.vbproj" Description="无法分析项目文件: E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\IT_ProjectManager.vbproj">
+</Event><Event ErrorLevel="3" Project="IT_ProjectManager" Source="IT_ProjectManager\IT_ProjectManager.vbproj" Description="未转换">
+</Event><Event ErrorLevel="2" Project="clsRSAEncryption" Source="clsRSAEncryption\clsRSAEncryption.csproj" Description="无法分析项目文件: E:\prj29\prj\IT_ProjectManager\clsRSAEncryption\clsRSAEncryption.csproj">
+</Event><Event ErrorLevel="3" Project="clsRSAEncryption" Source="clsRSAEncryption\clsRSAEncryption.csproj" Description="未转换">
+</Event><Event ErrorLevel="2" Project="ReadWriteInI" Source="ReadWriteInI\ReadWriteInI.csproj" Description="无法分析项目文件: E:\prj29\prj\IT_ProjectManager\ReadWriteInI\ReadWriteInI.csproj">
+</Event><Event ErrorLevel="3" Project="ReadWriteInI" Source="ReadWriteInI\ReadWriteInI.csproj" Description="未转换">
+</Event><Event ErrorLevel="2" Project="FTPClient" Source="FTPClient\FTPClient.vbproj" Description="无法分析项目文件: E:\prj29\prj\IT_ProjectManager\FTPClient\FTPClient.vbproj">
+</Event><Event ErrorLevel="3" Project="FTPClient" Source="FTPClient\FTPClient.vbproj" Description="未转换">
+</Event><Event ErrorLevel="2" Project="ProjectManagerService" Source="ProjectManagerService\ProjectManagerService.csproj" Description="无法分析项目文件: E:\prj29\prj\IT_ProjectManager\ProjectManagerService\ProjectManagerService.csproj">
+</Event><Event ErrorLevel="3" Project="ProjectManagerService" Source="ProjectManagerService\ProjectManagerService.csproj" Description="未转换">
+</Event><Event ErrorLevel="0" Project="" Source="IT_ProjectManager.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="IT_ProjectManager.sln" Description="Converted">
+</Event></UpgradeLog>
