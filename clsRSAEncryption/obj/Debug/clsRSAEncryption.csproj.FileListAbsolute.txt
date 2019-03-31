@@ -1,0 +1,19 @@
+D:\code\IT_ProjectManager\IT_ProjectManager\clsRSAEncryption\bin\Debug\RSAEncryption.dll
+D:\code\IT_ProjectManager\IT_ProjectManager\clsRSAEncryption\bin\Debug\RSAEncryption.pdb
+D:\code\IT_ProjectManager\IT_ProjectManager\clsRSAEncryption\obj\Debug\ResolveAssemblyReference.cache
+D:\code\IT_ProjectManager\IT_ProjectManager\clsRSAEncryption\obj\Debug\RSAEncryption.dll
+D:\code\IT_ProjectManager\IT_ProjectManager\clsRSAEncryption\obj\Debug\RSAEncryption.pdb
+E:\IT_ProjectManager\clsRSAEncryption\bin\Debug\RSAEncryption.dll
+E:\IT_ProjectManager\clsRSAEncryption\bin\Debug\RSAEncryption.pdb
+E:\IT_ProjectManager\clsRSAEncryption\obj\Debug\ResolveAssemblyReference.cache
+E:\IT_ProjectManager\clsRSAEncryption\obj\Debug\RSAEncryption.dll
+E:\IT_ProjectManager\clsRSAEncryption\obj\Debug\RSAEncryption.pdb
+E:\Not VSSCode\IT_ProjectManager\clsRSAEncryption\bin\Debug\RSAEncryption.dll
+E:\Not VSSCode\IT_ProjectManager\clsRSAEncryption\bin\Debug\RSAEncryption.pdb
+E:\Not VSSCode\IT_ProjectManager\clsRSAEncryption\obj\Debug\ResolveAssemblyReference.cache
+E:\Not VSSCode\IT_ProjectManager\clsRSAEncryption\obj\Debug\RSAEncryption.dll
+E:\Not VSSCode\IT_ProjectManager\clsRSAEncryption\obj\Debug\RSAEncryption.pdb
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\clsRSAEncryption\bin\Debug\RSAEncryption.dll
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\clsRSAEncryption\bin\Debug\RSAEncryption.pdb
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\clsRSAEncryption\obj\Debug\RSAEncryption.dll
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\clsRSAEncryption\obj\Debug\RSAEncryption.pdb
