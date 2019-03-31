@@ -1,0 +1,26 @@
+E:\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.dll
+E:\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.pdb
+E:\IT_ProjectManager\ReadWriteInI\obj\Release\ResolveAssemblyReference.cache
+E:\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.dll
+E:\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.pdb
+E:\Not VSSCode\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.dll
+E:\Not VSSCode\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.pdb
+E:\Not VSSCode\IT_ProjectManager\ReadWriteInI\obj\Release\ResolveAssemblyReference.cache
+E:\Not VSSCode\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.dll
+E:\Not VSSCode\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.pdb
+F:\SharedFiles\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.dll
+F:\SharedFiles\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.pdb
+F:\SharedFiles\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.dll
+F:\SharedFiles\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.pdb
+E:\prj\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.dll
+E:\prj\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.pdb
+E:\prj\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.dll
+E:\prj\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.pdb
+E:\28\prj\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.dll
+E:\28\prj\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.pdb
+E:\28\prj\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.dll
+E:\28\prj\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.pdb
+E:\prj29\prj\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.dll
+E:\prj29\prj\IT_ProjectManager\ReadWriteInI\bin\Release\ReadWriteInI.pdb
+E:\prj29\prj\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.dll
+E:\prj29\prj\IT_ProjectManager\ReadWriteInI\obj\Release\ReadWriteInI.pdb

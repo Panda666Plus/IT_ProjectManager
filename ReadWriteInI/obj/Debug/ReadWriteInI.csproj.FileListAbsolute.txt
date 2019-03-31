@@ -1,0 +1,25 @@
+D:\code\IT_ProjectManager\IT_ProjectManager\ReadWriteInI\bin\Debug\ReadWriteInI.dll
+D:\code\IT_ProjectManager\IT_ProjectManager\ReadWriteInI\bin\Debug\ReadWriteInI.pdb
+D:\code\IT_ProjectManager\IT_ProjectManager\ReadWriteInI\obj\Debug\ResolveAssemblyReference.cache
+D:\code\IT_ProjectManager\IT_ProjectManager\ReadWriteInI\obj\Debug\ReadWriteInI.dll
+D:\code\IT_ProjectManager\IT_ProjectManager\ReadWriteInI\obj\Debug\ReadWriteInI.pdb
+D:\IT_ProjectManager\IT_ProjectManager\ReadWriteInI\bin\Debug\ReadWriteInI.dll
+D:\IT_ProjectManager\IT_ProjectManager\ReadWriteInI\bin\Debug\ReadWriteInI.pdb
+D:\IT_ProjectManager\IT_ProjectManager\ReadWriteInI\obj\Debug\ResolveAssemblyReference.cache
+D:\IT_ProjectManager\IT_ProjectManager\ReadWriteInI\obj\Debug\ReadWriteInI.dll
+D:\IT_ProjectManager\IT_ProjectManager\ReadWriteInI\obj\Debug\ReadWriteInI.pdb
+E:\IT_ProjectManager\ReadWriteInI\bin\Debug\ReadWriteInI.dll
+E:\IT_ProjectManager\ReadWriteInI\bin\Debug\ReadWriteInI.pdb
+E:\IT_ProjectManager\ReadWriteInI\obj\Debug\ResolveAssemblyReference.cache
+E:\IT_ProjectManager\ReadWriteInI\obj\Debug\ReadWriteInI.dll
+E:\IT_ProjectManager\ReadWriteInI\obj\Debug\ReadWriteInI.pdb
+E:\Not VSSCode\IT_ProjectManager\ReadWriteInI\bin\Debug\ReadWriteInI.dll
+E:\Not VSSCode\IT_ProjectManager\ReadWriteInI\bin\Debug\ReadWriteInI.pdb
+E:\Not VSSCode\IT_ProjectManager\ReadWriteInI\obj\Debug\ResolveAssemblyReference.cache
+E:\Not VSSCode\IT_ProjectManager\ReadWriteInI\obj\Debug\ReadWriteInI.dll
+E:\Not VSSCode\IT_ProjectManager\ReadWriteInI\obj\Debug\ReadWriteInI.pdb
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ReadWriteInI\bin\Debug\ReadWriteInI.dll
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ReadWriteInI\bin\Debug\ReadWriteInI.pdb
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ReadWriteInI\obj\Debug\ReadWriteInI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ReadWriteInI\obj\Debug\ReadWriteInI.dll
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ReadWriteInI\obj\Debug\ReadWriteInI.pdb
