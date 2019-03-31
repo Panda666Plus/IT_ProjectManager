@@ -1,0 +1,65 @@
+E:\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.exe
+E:\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.pdb
+E:\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.dll
+E:\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.pdb
+E:\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ResolveAssemblyReference.cache
+E:\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.ProjectInstaller.resources
+E:\IT_ProjectManager\ProjectManagerService\obj\x86\Release\GenerateResource.read.1.tlog
+E:\IT_ProjectManager\ProjectManagerService\obj\x86\Release\GenerateResource.write.1.tlog
+E:\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.exe
+E:\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.pdb
+E:\Not VSSCode\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.exe
+E:\Not VSSCode\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.pdb
+E:\Not VSSCode\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.dll
+E:\Not VSSCode\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.pdb
+E:\Not VSSCode\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Not VSSCode\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.ProjectInstaller.resources
+E:\Not VSSCode\IT_ProjectManager\ProjectManagerService\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Not VSSCode\IT_ProjectManager\ProjectManagerService\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Not VSSCode\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.exe
+E:\Not VSSCode\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.pdb
+F:\SharedFiles\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.exe
+F:\SharedFiles\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.pdb
+F:\SharedFiles\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.dll
+F:\SharedFiles\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.pdb
+F:\SharedFiles\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.csprojResolveAssemblyReference.cache
+F:\SharedFiles\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.ProjectInstaller.resources
+F:\SharedFiles\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.csproj.GenerateResource.Cache
+F:\SharedFiles\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.exe
+F:\SharedFiles\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.pdb
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.exe
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.pdb
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.dll
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.pdb
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.exe
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.pdb
+E:\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.exe
+E:\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.pdb
+E:\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.dll
+E:\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.pdb
+E:\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.csprojResolveAssemblyReference.cache
+E:\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.ProjectInstaller.resources
+E:\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.csproj.GenerateResource.Cache
+E:\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.exe
+E:\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.pdb
+E:\28\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.exe
+E:\28\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.pdb
+E:\28\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.dll
+E:\28\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.pdb
+E:\28\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.ProjectInstaller.resources
+E:\28\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.csproj.GenerateResource.Cache
+E:\28\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.exe
+E:\28\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.pdb
+E:\prj29\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.exe
+E:\prj29\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.pdb
+E:\prj29\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.dll
+E:\prj29\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ReadWriteInI.pdb
+E:\prj29\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.csprojResolveAssemblyReference.cache
+E:\prj29\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.ProjectInstaller.resources
+E:\prj29\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.csproj.GenerateResource.Cache
+E:\prj29\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.exe
+E:\prj29\prj\IT_ProjectManager\ProjectManagerService\obj\x86\Release\ProjectManagerService.pdb
+E:\prj29\prj\IT_ProjectManager\ProjectManagerService\bin\Release\ProjectManagerService.exe.config

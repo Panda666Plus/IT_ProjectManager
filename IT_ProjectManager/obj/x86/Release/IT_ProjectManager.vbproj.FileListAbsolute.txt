@@ -1,0 +1,534 @@
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe.config
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.pdb
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.xml
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.ReportSource.dll
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Shared.dll
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.dll
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\RatingStarCom.dll
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.dll
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.dll
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\System.Runtime.Remoting.dll
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.pdb
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.pdb
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.xml
+E:\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.pdb
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\ResolveAssemblyReference.cache
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.PrintAssessReport.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.GroupManage.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.LeaderAssess.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mblIndividualAssessment.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlAssessManage.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugList.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugType.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.myTaskDay.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptinfo.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.DownloadFile.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.FTPFilesManager.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UploadToFTP.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectManage.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmLogo.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGTD_Main.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMyTasks.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectDetail.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectEdit.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSub.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSubDetail.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasks.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksDays.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksProgress.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksToDo.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject2.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlDepartmentView.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerContent.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerDimensionality.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMain.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGanttDetail.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnel.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnelTask.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerWorkTime.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProject.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectSchedule.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectView.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.RatingStar.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ScoreSeting.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptlist.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.nblSystemNameManage.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SoftIssueTrace.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SystemList.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugEntry.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugFixProgress.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Designate.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlTestProblems.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Resources.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UpdateList.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.AssessAndBugManage.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ResultsConfirm.resources
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\GenerateResource.read.1.tlog
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\GenerateResource.write.1.tlog
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe.licenses
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.xml
+E:\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.pdb
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe.config
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.pdb
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.xml
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.ReportSource.dll
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Shared.dll
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.dll
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\RatingStarCom.dll
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.dll
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.dll
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\System.Runtime.Remoting.dll
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.pdb
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.pdb
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.xml
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.pdb
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.PrintAssessReport.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.GroupManage.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.LeaderAssess.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mblIndividualAssessment.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlAssessManage.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugList.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugType.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.myTaskDay.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptinfo.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.DownloadFile.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.FTPFilesManager.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UploadToFTP.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectManage.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmLogo.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGTD_Main.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMyTasks.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectDetail.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectEdit.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSub.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSubDetail.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasks.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksDays.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksProgress.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksToDo.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject2.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlDepartmentView.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerContent.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerDimensionality.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMain.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGanttDetail.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnel.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnelTask.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerWorkTime.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProject.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectSchedule.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectView.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.RatingStar.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ScoreSeting.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptlist.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSystemType_Add.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.nblSystemNameManage.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SoftIssueTrace.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SystemList.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugEntry.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugFixProgress.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Designate.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlTestProblems.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Resources.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UpdateList.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.AssessAndBugManage.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ResultsConfirm.resources
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe.licenses
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.xml
+E:\Not VSSCode\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.pdb
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe.config
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.xml
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.pdb
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.pdb
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.xml
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.ReportSource.dll
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Shared.dll
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.dll
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\RatingStarCom.dll
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.dll
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.dll
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\System.Runtime.Remoting.dll
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.pdb
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.pdb
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.xml
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.pdb
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.vbprojResolveAssemblyReference.cache
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.PrintAssessReport.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.GroupManage.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.LeaderAssess.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mblIndividualAssessment.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlAssessManage.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugList.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugType.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.myTaskDay.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptinfo.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.DownloadFile.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.FTPFilesManager.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UploadToFTP.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectManage.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmLogo.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGTD_Main.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMyTasks.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectDetail.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectEdit.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSub.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSubDetail.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasks.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksDays.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksProgress.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksToDo.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject2.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlDepartmentView.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerContent.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerDimensionality.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMain.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGanttDetail.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnel.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnelTask.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerWorkTime.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProject.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectSchedule.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectView.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.RatingStar.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ScoreSeting.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptlist.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSystemType_Add.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.nblSystemNameManage.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SoftIssueTrace.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SystemList.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugEntry.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugFixProgress.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Designate.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlTestProblems.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Resources.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UpdateList.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.AssessAndBugManage.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ResultsConfirm.resources
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.vbproj.GenerateResource.Cache
+F:\SharedFiles\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe.licenses
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe.config
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.xml
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.pdb
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.pdb
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.xml
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.ReportSource.dll
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Shared.dll
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.dll
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\RatingStarCom.dll
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.dll
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.dll
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\System.Runtime.Remoting.dll
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.pdb
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.pdb
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.xml
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.pdb
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.PrintAssessReport.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.GroupManage.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.LeaderAssess.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mblIndividualAssessment.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlAssessManage.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugList.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugType.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.myTaskDay.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptinfo.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.DownloadFile.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.FTPFilesManager.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UploadToFTP.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectManage.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmLogo.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGTD_Main.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMyTasks.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectDetail.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectEdit.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSub.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSubDetail.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasks.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksDays.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksProgress.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksToDo.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject2.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlDepartmentView.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerContent.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerDimensionality.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMain.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGanttDetail.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnel.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnelTask.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerWorkTime.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProject.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectSchedule.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectView.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.RatingStar.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ScoreSeting.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptlist.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSystemType_Add.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.nblSystemNameManage.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SoftIssueTrace.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SystemList.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugEntry.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugFixProgress.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Designate.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlTestProblems.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Resources.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UpdateList.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.AssessAndBugManage.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ResultsConfirm.resources
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.vbproj.GenerateResource.Cache
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe.licenses
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.vbprojResolveAssemblyReference.cache
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\Interop.CrystalAnalysisCommonControlsLib.dll
+D:\BaiduYunDownload\IT_ProjectManager\IT_ProjectManager1\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.vbproj.ResolveComReference.cache
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe.config
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.pdb
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.xml
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.ReportSource.dll
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Shared.dll
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.dll
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\RatingStarCom.dll
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.dll
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.dll
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\System.Runtime.Remoting.dll
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.pdb
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.pdb
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.xml
+E:\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.pdb
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.vbprojResolveAssemblyReference.cache
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.PrintAssessReport.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.GroupManage.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.LeaderAssess.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mblIndividualAssessment.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlAssessManage.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugList.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugType.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.myTaskDay.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptinfo.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.DownloadFile.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.FTPFilesManager.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UploadToFTP.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectManage.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmLogo.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGTD_Main.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMyTasks.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectDetail.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectEdit.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSub.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSubDetail.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasks.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksDays.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksProgress.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksToDo.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject2.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlDepartmentView.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerContent.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerDimensionality.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMain.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGanttDetail.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnel.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnelTask.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerWorkTime.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProject.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectSchedule.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectView.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.RatingStar.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ScoreSeting.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptlist.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSystemType_Add.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.nblSystemNameManage.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SoftIssueTrace.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SystemList.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugEntry.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugFixProgress.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Designate.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlTestProblems.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Resources.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UpdateList.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.AssessAndBugManage.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ResultsConfirm.resources
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.vbproj.GenerateResource.Cache
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe.licenses
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.xml
+E:\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.pdb
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe.config
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.xml
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.pdb
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.pdb
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.xml
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.ReportSource.dll
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Shared.dll
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.dll
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\RatingStarCom.dll
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.dll
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.dll
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\System.Runtime.Remoting.dll
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.pdb
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.pdb
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.xml
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.pdb
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.PrintAssessReport.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.GroupManage.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.LeaderAssess.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mblIndividualAssessment.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlAssessManage.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugList.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugType.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.myTaskDay.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptinfo.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.DownloadFile.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.FTPFilesManager.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UploadToFTP.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectManage.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmLogo.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGTD_Main.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMyTasks.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectDetail.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectEdit.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSub.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSubDetail.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasks.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksDays.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksProgress.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksToDo.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject2.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlDepartmentView.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerContent.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerDimensionality.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMain.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGanttDetail.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnel.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnelTask.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerWorkTime.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProject.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectSchedule.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectView.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.RatingStar.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ScoreSeting.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptlist.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSystemType_Add.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.nblSystemNameManage.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SoftIssueTrace.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SystemList.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugEntry.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugFixProgress.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Designate.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlTestProblems.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Resources.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UpdateList.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.AssessAndBugManage.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ResultsConfirm.resources
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.vbproj.GenerateResource.Cache
+E:\28\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe.licenses
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe.config
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.xml
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.pdb
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.exe
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.pdb
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\IT_ProjectManager.xml
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.ReportSource.dll
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Shared.dll
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.dll
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\RatingStarCom.dll
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.dll
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.dll
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\System.Runtime.Remoting.dll
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\RSAEncryption.pdb
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.pdb
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\FTPClient.xml
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\bin\Release\ReadWriteInI.pdb
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.vbprojResolveAssemblyReference.cache
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.PrintAssessReport.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.GroupManage.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.LeaderAssess.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mblIndividualAssessment.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlAssessManage.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugList.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UCBugType.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.myTaskDay.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptinfo.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.DownloadFile.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.FTPFilesManager.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UploadToFTP.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectManage.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmLogo.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGTD_Main.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMyTasks.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectDetail.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectEdit.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSub.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectSubDetail.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasks.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksDays.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksProgress.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmProjectTasksToDo.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSelectProject2.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlDepartmentView.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerContent.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerDimensionality.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmMain.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlGanttDetail.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnel.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPersonnelTask.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlPerWorkTime.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProject.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectSchedule.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlProjectView.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.RatingStar.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ScoreSeting.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.deptlist.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.frmSystemType_Add.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.nblSystemNameManage.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SoftIssueTrace.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.SystemList.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugEntry.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.BugFixProgress.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Designate.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.mdlTestProblems.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.Resources.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.UpdateList.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.AssessAndBugManage.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.ResultsConfirm.resources
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.vbproj.GenerateResource.Cache
+E:\prj29\prj\IT_ProjectManager\IT_ProjectManager\obj\x86\Release\IT_ProjectManager.exe.licenses

@@ -1,0 +1,32 @@
+d9835333905d23893188bcc197f8f00d \AutoUpdate.exe
+2bba8e26fe9a008754126506b6786a52 \AutoUpdate.pdb
+2a4de7d8e99a19cacad77514d84b2c74 \AutoUpdateFtpClient.dll
+f8bcfa1f34fb2524408714e99a453432 \AutoUpdateFtpClient.pdb
+d146cf94a4f8dea807715b300948678d \CrystalDecisions.CrystalReports.Engine.dll
+81e2695ad661dc0020ddc21f000c8e8e \CrystalDecisions.ReportSource.dll
+0a195f4e04135a9b18b2cf2daa86ba72 \CrystalDecisions.Shared.dll
+3188fe2381efc1679ac925d9f39f5e14 \CrystalDecisions.Windows.Forms.dll
+a1cbd7c2480056c4b1e3fbfe6539d310 \FTPClient.dll
+7e53635c1043a0a74f902074aa24f4e5 \FTPClient.pdb
+ca77ef06a78bf65212502674c8888c63 \FTPClient.xml
+a8e450e1b61e9922ed9fdb5cd07846cf \IT_ProjectManager.exe
+5b5b2f054d53b9f28936a5465d3d736a \IT_ProjectManager.exe.config
+9b06e2e07484f6a797909d4a4110e92b \IT_ProjectManager.pdb
+02be6d33b1edbc61c79882d3f556bd8a \IT_ProjectManager.vshost.exe
+5b5b2f054d53b9f28936a5465d3d736a \IT_ProjectManager.vshost.exe.config
+80ddd069db8a415a9512254dcbdd0503 \IT_ProjectManager.vshost.exe.manifest
+4e8dc85d645a1ac00da0000092787c37 \IT_ProjectManager.xml
+3043e28485406c6ec7fb0b04a823bc8b \Microsoft.VisualBasic.PowerPacks.Vs.dll
+e0d80706c31ea90fd5d09fcb3b2d49f9 \Publisher.exe.config
+02be6d33b1edbc61c79882d3f556bd8a \Publisher.vshost.exe
+e0d80706c31ea90fd5d09fcb3b2d49f9 \Publisher.vshost.exe.config
+a19a2658ba69030c6ac9d11fd7d7e3c1 \Publisher.vshost.exe.manifest
+26a4e226519c14b8076a5817c1938e0f \RatingStarCom.dll
+fe1018555c08e8427c646091543d7e02 \ReadWriteInI.dll
+c1b1537e4f1ddb4294bdf77c17216f87 \ReadWriteInI.pdb
+f9d14fb861679435a7ce0606bbf0ec88 \RSAEncryption.dll
+22522dd52883b7e22ca9840267dbb836 \RSAEncryption.pdb
+42bd2044ec63fa0290416de63dedcaa1 \System.Runtime.Remoting.dll
+<boby>UpList
+
+</boby>

@@ -1,0 +1,234 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FTPClient
+</name>
+</assembly>
+<members>
+<member name="P:clsFTPHelper.My.Resources.Resources.ResourceManager">
+	<summary>
+  返回此类使用的缓存的 ResourceManager 实例。
+</summary>
+</member><member name="P:clsFTPHelper.My.Resources.Resources.Culture">
+	<summary>
+  使用此强类型资源类，为所有资源查找
+  重写当前线程的 CurrentUICulture 属性。
+</summary>
+</member><member name="T:clsFTPHelper.My.Resources.Resources">
+	<summary>
+  一个强类型的资源类，用于查找本地化的字符串等。
+</summary>
+</member><member name="M:clsFTPHelper.FTPHelper.#ctor">
+	<summary>
+ Main类的构造函数
+ </summary>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.#ctor(System.String,System.String,System.String,System.String,System.Int32)">
+	<summary>
+ 参数化的构造函数
+ </summary>
+	<param name="sRemoteHost"></param>
+	<param name="sRemotePath"></param>
+	<param name="sRemoteUser"></param>
+	<param name="sRemotePassword"></param>
+	<param name="iRemotePort"></param>
+	<remarks></remarks>
+</member><member name="P:clsFTPHelper.FTPHelper.RemoteHostFTPServer">
+	<summary>
+ 设置或得到你想链接的FTP服务器的名称
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:clsFTPHelper.FTPHelper.RemotePort">
+	<summary>
+ 设置或得到你想链接的FTP服务器的FTP端口
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:clsFTPHelper.FTPHelper.RemotePath">
+	<summary>
+ 设置或得到你想链接的FTP服务器的远程路径
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:clsFTPHelper.FTPHelper.RemotePassword">
+	<summary>
+ 设置你想链接的远程FTP服务器的密码
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:clsFTPHelper.FTPHelper.RemoteUser">
+	<summary>
+ 设置或得到链接远程的FTP服务器的用户
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:clsFTPHelper.FTPHelper.MessageString">
+	<summary>
+ 设置messagestring类
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.GetFileList(System.String)">
+	<summary>
+ 从文件系统中返回一个文件列表。在string()函数中返回文件。
+ </summary>
+	<param name="sMask"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.GetFileSize(System.String)">
+	<summary>
+ 得到FTP服务器上的文件大小
+ </summary>
+	<param name="sFileName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.Login">
+	<summary>
+ 登录FTP服务器
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.SetBinaryMode(System.Boolean)">
+	<summary>
+ 如果模式值为真，对下载设置为二进制模式。否则，设置为GB2312模式
+ </summary>
+	<param name="bMode"></param>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.DownloadFile(System.String)">
+	<summary>
+ 向配置好的本地目录下载一个文件。保持文件名一样。
+ 默认当前程序目录
+ </summary>
+	<param name="sFileName">文件名</param>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.DownloadFile(System.String,System.String,System.Boolean)">
+	<summary>
+ 指定的本地文件夹下载一个远程文件。保持文件名一样。
+ </summary>
+	<param name="sFileName"></param>
+	<param name="bResume"></param>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.DownloadFile(System.String,System.String)">
+	<summary>
+    对本地文件名下载一个远程文件。你必须配置一个路径。
+    本地文件名将会创建或者将会被重写，但是路径必须存在。
+ </summary>
+	<param name="sFileName">FTP文件名称</param>
+	<param name="sLocalFileName">保存在本地时名称</param>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.DownloadFiles(System.String,System.String,System.Boolean)">
+	<summary>
+ 对一个本地文件名下载一个远程文件。必须包含一个路径。
+ 设置恢复标志。本地文件名将会被创建或被重写，但是本地路径必须存在。
+ </summary>
+	<param name="sFileName">文件名</param>
+	<param name="sLocalFileName">本地路径</param>
+	<param name="bResume">是否恢复</param>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.UploadFile(System.String)">
+	<summary>
+ 本地硬盘上向FTP文件夹中上载文件的函数
+ </summary>
+	<param name="sFileName"></param>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.UploadFile(System.String,System.Boolean)">
+	<summary>
+ 上传指定文件
+ </summary>
+	<param name="sFileName">文件名称</param>
+	<param name="bResume">是否获取文件大小</param>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.DeleteFile(System.String)">
+	<summary>
+ 从远程FTP服务器上删除单个文件。
+ </summary>
+	<param name="sFileName">文件名</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.RenameFile(System.String,System.String)">
+	<summary>
+ 在远程FTP服务器上重命名一个文件
+ </summary>
+	<param name="sOldFileName">旧文件名</param>
+	<param name="sNewFileName">新文件名</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.CreateDirectory(System.String)">
+	<summary>
+ 在远程服务器上创建目录的函数
+ </summary>
+	<param name="sDirName">路径</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.RemoveDirectory(System.String)">
+	<summary>
+ 删除FTP目录文件
+ </summary>
+	<param name="sDirName">路径</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.ChangeDirectory(System.String)">
+	<summary>
+ 变更FTP文件路径
+ </summary>
+	<param name="sDirName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.CloseConnection">
+	<summary>
+ 关闭远程服务器的FTP链接
+ </summary>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.ReadReply">
+	<summary>
+ 从FTP服务器得到回应。
+ </summary>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.Cleanup">
+	<summary>
+ 移除一些变量
+ </summary>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.ReadLine(System.Boolean)">
+	<summary>
+ 从FTP服务器读写一行。
+ </summary>
+	<param name="bClearMes"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.SendCommand(System.String)">
+	<summary>
+ 链接FTP服务器用於发送命令的函数
+ </summary>
+	<param name="sCommand">TCP FTP指令码</param>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.CreateDataSocket">
+	<summary>
+ 创建一个数据包
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:clsFTPHelper.FTPHelper.DirectoryExist(System.String)">
+	<summary>
+ 判断FTP指定文件是否存在
+ TRUE 表示存在，False表示不存在
+ </summary>
+	<param name="FileName">文件名</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:clsFTPHelper.FTPHelper">
+	<summary>
+ FTP 类
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

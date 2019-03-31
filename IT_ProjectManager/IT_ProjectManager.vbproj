@@ -1,0 +1,924 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{17C7EB54-523A-488F-A311-FDBC9377814A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>IT_ProjectManager.My.MyApplication</StartupObject>
+    <RootNamespace>IT_ProjectManager</RootNamespace>
+    <AssemblyName>IT_ProjectManager</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IT_ProjectManager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IT_ProjectManager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Computer _ iMac.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a" />
+    <Reference Include="DevExpress.Charts.v12.2.Core, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.ExpressApp.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.ExpressApp.Win.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Persistent.Base.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v12.2.Core, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v12.2.Core, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.SpellChecker.v12.2.Core, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.UI, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.Wizard, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2.Core, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2.Extensions, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpellChecker.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RatingStarCom">
+      <HintPath>..\..\COM\RatingStarCom.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Remoting">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="AssessManage\AssessPublicModel.vb" />
+    <Compile Include="AssessManage\AssessReport\PrintAssessReport.Designer.vb">
+      <DependentUpon>PrintAssessReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AssessManage\AssessReport\PrintAssessReport.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AssessManage\AssessReport\Report\AssessReport2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AssessReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AssessManage\AssessReport\Report\ReprotDataSet\AssDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AssDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AssessManage\AssessReport\Report\ReprotDataSet\AssDataSet.vb">
+      <DependentUpon>AssDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AssessManage\GroupManage.Designer.vb">
+      <DependentUpon>GroupManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AssessManage\GroupManage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssessManage\HeadAssessment\LeaderAssess\LeaderAssess.Designer.vb">
+      <DependentUpon>LeaderAssess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AssessManage\HeadAssessment\LeaderAssess\LeaderAssess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssessManage\HeadAssessment\mdlAssessManage.Designer.vb">
+      <DependentUpon>mdlAssessManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AssessManage\HeadAssessment\mdlAssessManage.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AssessManage\IndividualAssessment\mblIndividualAssessment.Designer.vb">
+      <DependentUpon>mblIndividualAssessment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AssessManage\IndividualAssessment\mblIndividualAssessment.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BugManage\UCBugList.Designer.vb">
+      <DependentUpon>UCBugList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BugManage\UCBugList.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BugManage\UCBugType.Designer.vb">
+      <DependentUpon>UCBugType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BugManage\UCBugType.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DepartmentView\myTaskDay.Designer.vb">
+      <DependentUpon>myTaskDay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentView\myTaskDay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dept&amp;updateinfo\deptinfo.Designer.vb">
+      <DependentUpon>deptinfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dept&amp;updateinfo\deptinfo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FilesManage\FileDown\DownloadFile.Designer.vb">
+      <DependentUpon>DownloadFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FilesManage\FileDown\DownloadFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilesManage\FileUpload\UploadToFTP.Designer.vb">
+      <DependentUpon>UploadToFTP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FilesManage\FileUpload\UploadToFTP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilesManage\FilesManage.Designer.vb">
+      <DependentUpon>FilesManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FilesManage\FilesManage.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FilesManage\ProjectManage\frmProjectManage.Designer.vb">
+      <DependentUpon>frmProjectManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FilesManage\ProjectManage\frmProjectManage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogo.Designer.vb">
+      <DependentUpon>frmLogo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GTD\mdlGTD_Main.Designer.vb">
+      <DependentUpon>mdlGTD_Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GTD\mdlGTD_Main.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyTask\frmMyTasks.Designer.vb">
+      <DependentUpon>frmMyTasks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MyTask\frmMyTasks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project\frmProjectDetail.Designer.vb">
+      <DependentUpon>frmProjectDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Project\frmProjectDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project\frmProjectEdit.Designer.vb">
+      <DependentUpon>frmProjectEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Project\frmProjectEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project\frmProjectSub.Designer.vb">
+      <DependentUpon>frmProjectSub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Project\frmProjectSub.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project\frmProjectSubDetail.Designer.vb">
+      <DependentUpon>frmProjectSubDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Project\frmProjectSubDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project\frmProjectTasks.Designer.vb">
+      <DependentUpon>frmProjectTasks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Project\frmProjectTasks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyTask\frmProjectTasksDays.Designer.vb">
+      <DependentUpon>frmProjectTasksDays.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MyTask\frmProjectTasksDays.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyTask\frmProjectTasksProgress.Designer.vb">
+      <DependentUpon>frmProjectTasksProgress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MyTask\frmProjectTasksProgress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyTask\frmProjectTasksToDo.Designer.vb">
+      <DependentUpon>frmProjectTasksToDo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MyTask\frmProjectTasksToDo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConcernProject\frmSelectProject.Designer.vb">
+      <DependentUpon>frmSelectProject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConcernProject\frmSelectProject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConcernProject\frmSelectProject2.Designer.vb">
+      <DependentUpon>frmSelectProject2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConcernProject\frmSelectProject2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentView\mdlDepartmentView.Designer.vb">
+      <DependentUpon>mdlDepartmentView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentView\mdlDepartmentView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyTask\mdlPerContent.Designer.vb">
+      <DependentUpon>mdlPerContent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MyTask\mdlPerContent.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyTask\mdlPerDimensionality.Designer.vb">
+      <DependentUpon>mdlPerDimensionality.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MyTask\mdlPerDimensionality.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentView\mdlGanttDetail.Designer.vb">
+      <DependentUpon>mdlGanttDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentView\mdlGanttDetail.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PersonnelManage\mdlPersonnel.Designer.vb">
+      <DependentUpon>mdlPersonnel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PersonnelManage\mdlPersonnel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyTask\mdlPersonnelTask.Designer.vb">
+      <DependentUpon>mdlPersonnelTask.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MyTask\mdlPersonnelTask.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyTask\mdlPerWorkTime.Designer.vb">
+      <DependentUpon>mdlPerWorkTime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MyTask\mdlPerWorkTime.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Project\mdlProject.Designer.vb">
+      <DependentUpon>mdlProject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Project\mdlProject.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConcernProject\mdlProjectSchedule.Designer.vb">
+      <DependentUpon>mdlProjectSchedule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConcernProject\mdlProjectSchedule.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConcernProject\mdlProjectView.Designer.vb">
+      <DependentUpon>mdlProjectView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConcernProject\mdlProjectView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyProjectSub\RatingStar.designer.vb">
+      <DependentUpon>RatingStar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MyProjectSub\RatingStar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PulicMethods\CheckRoot\CheckRoot.vb" />
+    <Compile Include="PulicMethods\DBHelper\DBHelper.vb" />
+    <Compile Include="PulicMethods\DomainValidation\ImpersonateValidUser.vb" />
+    <Compile Include="PulicMethods\FTPClient\FTPFielsManager.vb" />
+    <Compile Include="PulicMethods\mdlOther.vb" />
+    <Compile Include="PulicMethods\MyTask\MyTaskOrToDO.vb" />
+    <Compile Include="PulicMethods\PublicDelegate\DelegateMethod.vb" />
+    <Compile Include="SystemSeting\ScoreSeting\ScoreSeting.Designer.vb">
+      <DependentUpon>ScoreSeting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemSeting\ScoreSeting\ScoreSeting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemSeting\SystemItemNameManage\deptlist.Designer.vb">
+      <DependentUpon>deptlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemSeting\SystemItemNameManage\deptlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemSeting\SystemItemNameManage\frmSystemType_Add.Designer.vb">
+      <DependentUpon>frmSystemType_Add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemSeting\SystemItemNameManage\frmSystemType_Add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemSeting\SystemItemNameManage\nblSystemNameManage.Designer.vb">
+      <DependentUpon>nblSystemNameManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemSeting\SystemItemNameManage\nblSystemNameManage.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SystemSeting\SystemItemNameManage\SoftIssueTrace.Designer.vb">
+      <DependentUpon>SoftIssueTrace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemSeting\SystemItemNameManage\SoftIssueTrace.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemSeting\SystemItemNameManage\SystemList.Designer.vb">
+      <DependentUpon>SystemList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemSeting\SystemItemNameManage\SystemList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BugManage\BugEntry.Designer.vb">
+      <DependentUpon>BugEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BugManage\BugEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BugManage\BugFixProgress.Designer.vb">
+      <DependentUpon>BugFixProgress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BugManage\BugFixProgress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BugManage\Designate.Designer.vb">
+      <DependentUpon>Designate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BugManage\Designate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BugManage\mdlTestProblems.Designer.vb">
+      <DependentUpon>mdlTestProblems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BugManage\mdlTestProblems.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ShowUpdataList\UpdateList.Designer.vb">
+      <DependentUpon>UpdateList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShowUpdataList\UpdateList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemSeting\AssessAndBugSeting\AssessAndBugManage.Designer.vb">
+      <DependentUpon>AssessAndBugManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemSeting\AssessAndBugSeting\AssessAndBugManage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSet\TasksDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TasksDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\TasksDataSet.vb">
+      <DependentUpon>TasksDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BugManage\ResultsConfirm.Designer.vb">
+      <DependentUpon>ResultsConfirm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BugManage\ResultsConfirm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AssessManage\AssessReport\PrintAssessReport.resx">
+      <DependentUpon>PrintAssessReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssessManage\GroupManage.resx">
+      <DependentUpon>GroupManage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssessManage\HeadAssessment\LeaderAssess\LeaderAssess.resx">
+      <DependentUpon>LeaderAssess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssessManage\IndividualAssessment\mblIndividualAssessment.resx">
+      <DependentUpon>mblIndividualAssessment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssessManage\HeadAssessment\mdlAssessManage.resx">
+      <DependentUpon>mdlAssessManage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugManage\UCBugList.resx">
+      <DependentUpon>UCBugList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugManage\UCBugType.resx">
+      <DependentUpon>UCBugType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentView\myTaskDay.resx">
+      <DependentUpon>myTaskDay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dept&amp;updateinfo\deptinfo.resx">
+      <DependentUpon>deptinfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilesManage\FileDown\DownloadFile.resx">
+      <DependentUpon>DownloadFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilesManage\FilesManage.resx">
+      <DependentUpon>FilesManage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilesManage\FileUpload\UploadToFTP.resx">
+      <DependentUpon>UploadToFTP.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilesManage\ProjectManage\frmProjectManage.resx">
+      <DependentUpon>frmProjectManage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogo.resx">
+      <DependentUpon>frmLogo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GTD\mdlGTD_Main.resx">
+      <DependentUpon>mdlGTD_Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyTask\frmMyTasks.resx">
+      <DependentUpon>frmMyTasks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\frmProjectDetail.resx">
+      <DependentUpon>frmProjectDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\frmProjectEdit.resx">
+      <DependentUpon>frmProjectEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\frmProjectSub.resx">
+      <DependentUpon>frmProjectSub.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\frmProjectSubDetail.resx">
+      <DependentUpon>frmProjectSubDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\frmProjectTasks.resx">
+      <DependentUpon>frmProjectTasks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyTask\frmProjectTasksDays.resx">
+      <DependentUpon>frmProjectTasksDays.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyTask\frmProjectTasksProgress.resx">
+      <DependentUpon>frmProjectTasksProgress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyTask\frmProjectTasksToDo.resx">
+      <DependentUpon>frmProjectTasksToDo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConcernProject\frmSelectProject.resx">
+      <DependentUpon>frmSelectProject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConcernProject\frmSelectProject2.resx">
+      <DependentUpon>frmSelectProject2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentView\mdlDepartmentView.resx">
+      <DependentUpon>mdlDepartmentView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyTask\mdlPerContent.resx">
+      <DependentUpon>mdlPerContent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyTask\mdlPerDimensionality.resx">
+      <DependentUpon>mdlPerDimensionality.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentView\mdlGanttDetail.resx">
+      <DependentUpon>mdlGanttDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonnelManage\mdlPersonnel.resx">
+      <DependentUpon>mdlPersonnel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyTask\mdlPersonnelTask.resx">
+      <DependentUpon>mdlPersonnelTask.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyTask\mdlPerWorkTime.resx">
+      <DependentUpon>mdlPerWorkTime.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\mdlProject.resx">
+      <DependentUpon>mdlProject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConcernProject\mdlProjectSchedule.resx">
+      <DependentUpon>mdlProjectSchedule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConcernProject\mdlProjectView.resx">
+      <DependentUpon>mdlProjectView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyProjectSub\RatingStar.resx">
+      <DependentUpon>RatingStar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemSeting\ScoreSeting\ScoreSeting.resx">
+      <DependentUpon>ScoreSeting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemSeting\SystemItemNameManage\deptlist.resx">
+      <DependentUpon>deptlist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemSeting\SystemItemNameManage\frmSystemType_Add.resx">
+      <DependentUpon>frmSystemType_Add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemSeting\SystemItemNameManage\nblSystemNameManage.resx">
+      <DependentUpon>nblSystemNameManage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemSeting\SystemItemNameManage\SoftIssueTrace.resx">
+      <DependentUpon>SoftIssueTrace.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemSeting\SystemItemNameManage\SystemList.resx">
+      <DependentUpon>SystemList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugManage\BugEntry.resx">
+      <DependentUpon>BugEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugManage\BugFixProgress.resx">
+      <DependentUpon>BugFixProgress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugManage\Designate.resx">
+      <DependentUpon>Designate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugManage\mdlTestProblems.resx">
+      <DependentUpon>mdlTestProblems.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowUpdataList\UpdateList.resx">
+      <DependentUpon>UpdateList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemSeting\AssessAndBugSeting\AssessAndBugManage.resx">
+      <DependentUpon>AssessAndBugManage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BugManage\ResultsConfirm.resx">
+      <DependentUpon>ResultsConfirm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <EmbeddedResource Include="AssessManage\AssessReport\Report\AssessReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AssessReport2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="AssessManage\AssessReport\Report\ReprotDataSet\AssDataSet.xsc">
+      <DependentUpon>AssDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AssessManage\AssessReport\Report\ReprotDataSet\AssDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AssDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="AssessManage\AssessReport\Report\ReprotDataSet\AssDataSet.xss">
+      <DependentUpon>AssDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet\TasksDataSet.xsc">
+      <DependentUpon>TasksDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\TasksDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TasksDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\TasksDataSet.xss">
+      <DependentUpon>TasksDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\clsRSAEncryption\clsRSAEncryption.csproj">
+      <Project>{B0BA56B8-25D6-4F74-B749-5FF21590D65D}</Project>
+      <Name>clsRSAEncryption</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FTPClient\FTPClient.vbproj">
+      <Project>{28DD81D2-5CBD-477B-9C88-5C05B0DBAEA2}</Project>
+      <Name>FTPClient</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReadWriteInI\ReadWriteInI.csproj">
+      <Project>{84E052A1-B0CD-406F-B629-12AD3994417F}</Project>
+      <Name>ReadWriteInI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProjectView.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PivotChartType.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QueryAppend.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProjectView1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DepartmentView.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gantt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Personnel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PensonnelView.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Project.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PensonnelView1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FilesManager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Computer _ iMac.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bug.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\look.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OutlineCollapse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OutlineExpand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QueryRunQuery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Repeat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SharingRequestAllow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SharingRequestDeny.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flag_redHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrganizerHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flag_blueHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ToExcel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sysName.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Score.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bug1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Category.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Computer _ iMac.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Computer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Groups.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AssessMg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProAssess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lassess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lassess1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bug2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BugMap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BugStatistics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NextGIF.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\AutoUpdateFtpClient.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.CrystalReports.Engine.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportSource.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.Shared.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.Windows.Forms.dll" />
+    <Content Include="bin\Debug\FTPClient.dll" />
+    <Content Include="bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll" />
+    <Content Include="bin\Debug\RatingStarCom.dll" />
+    <Content Include="bin\Debug\ReadWriteInI.dll" />
+    <Content Include="bin\Debug\RSAEncryption.dll" />
+    <Content Include="bin\Debug\System.Runtime.Remoting.dll" />
+    <Content Include="PulicMethods\DBHelper\DbHelperSQL.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

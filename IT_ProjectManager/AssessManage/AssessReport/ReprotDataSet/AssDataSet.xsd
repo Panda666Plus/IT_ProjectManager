@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AssDataSet" targetNamespace="http://tempuri.org/AssDataSet.xsd" xmlns:mstns="http://tempuri.org/AssDataSet.xsd" xmlns="http://tempuri.org/AssDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AssDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="AssDataSet" msprop:Generator_UserDSName="AssDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="IT_Project" msprop:Generator_TableClassName="IT_ProjectDataTable" msprop:Generator_TableVarName="tableIT_Project" msprop:Generator_RowChangedName="IT_ProjectRowChanged" msprop:Generator_TablePropName="IT_Project" msprop:Generator_RowDeletingName="IT_ProjectRowDeleting" msprop:Generator_RowChangingName="IT_ProjectRowChanging" msprop:Generator_RowEvHandlerName="IT_ProjectRowChangeEventHandler" msprop:Generator_RowDeletedName="IT_ProjectRowDeleted" msprop:Generator_RowClassName="IT_ProjectRow" msprop:Generator_UserTableName="IT_Project" msprop:Generator_RowEvArgName="IT_ProjectRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PrjName" msprop:Generator_ColumnVarNameInTable="columnPrjName" msprop:Generator_ColumnPropNameInRow="PrjName" msprop:Generator_ColumnPropNameInTable="PrjNameColumn" msprop:Generator_UserColumnName="PrjName" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalTime" msprop:Generator_ColumnVarNameInTable="columnTotalTime" msprop:Generator_ColumnPropNameInRow="TotalTime" msprop:Generator_ColumnPropNameInTable="TotalTimeColumn" msprop:Generator_UserColumnName="TotalTime" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="IT_ToDo" msprop:Generator_TableClassName="IT_ToDoDataTable" msprop:Generator_TableVarName="tableIT_ToDo" msprop:Generator_RowChangedName="IT_ToDoRowChanged" msprop:Generator_TablePropName="IT_ToDo" msprop:Generator_RowDeletingName="IT_ToDoRowDeleting" msprop:Generator_RowChangingName="IT_ToDoRowChanging" msprop:Generator_RowEvHandlerName="IT_ToDoRowChangeEventHandler" msprop:Generator_RowDeletedName="IT_ToDoRowDeleted" msprop:Generator_RowClassName="IT_ToDoRow" msprop:Generator_UserTableName="IT_ToDo" msprop:Generator_RowEvArgName="IT_ToDoRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TD_Name" msprop:Generator_ColumnVarNameInTable="columnTD_Name" msprop:Generator_ColumnPropNameInRow="TD_Name" msprop:Generator_ColumnPropNameInTable="TD_NameColumn" msprop:Generator_UserColumnName="TD_Name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="LeaderManger" msprop:Generator_TableClassName="LeaderMangerDataTable" msprop:Generator_TableVarName="tableLeaderManger" msprop:Generator_RowChangedName="LeaderMangerRowChanged" msprop:Generator_TablePropName="LeaderManger" msprop:Generator_RowDeletingName="LeaderMangerRowDeleting" msprop:Generator_RowChangingName="LeaderMangerRowChanging" msprop:Generator_RowEvHandlerName="LeaderMangerRowChangeEventHandler" msprop:Generator_RowDeletedName="LeaderMangerRowDeleted" msprop:Generator_RowClassName="LeaderMangerRow" msprop:Generator_UserTableName="LeaderManger" msprop:Generator_RowEvArgName="LeaderMangerRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="UserNo" msprop:Generator_ColumnVarNameInTable="columnUserNo" msprop:Generator_ColumnPropNameInRow="UserNo" msprop:Generator_ColumnPropNameInTable="UserNoColumn" msprop:Generator_UserColumnName="UserNo" type="xs:string" minOccurs="0" />
+              <xs:element name="UserName" msprop:Generator_ColumnVarNameInTable="columnUserName" msprop:Generator_ColumnPropNameInRow="UserName" msprop:Generator_ColumnPropNameInTable="UserNameColumn" msprop:Generator_UserColumnName="UserName" type="xs:string" minOccurs="0" />
+              <xs:element name="YearMonth" msprop:Generator_ColumnVarNameInTable="columnYearMonth" msprop:Generator_ColumnPropNameInRow="YearMonth" msprop:Generator_ColumnPropNameInTable="YearMonthColumn" msprop:Generator_UserColumnName="YearMonth" type="xs:string" minOccurs="0" />
+              <xs:element name="IndividualReviews" msprop:Generator_ColumnVarNameInTable="columnIndividualReviews" msprop:Generator_ColumnPropNameInRow="IndividualReviews" msprop:Generator_ColumnPropNameInTable="IndividualReviewsColumn" msprop:Generator_UserColumnName="IndividualReviews" type="xs:string" minOccurs="0" />
+              <xs:element name="LeaderComment" msprop:Generator_ColumnVarNameInTable="columnLeaderComment" msprop:Generator_ColumnPropNameInRow="LeaderComment" msprop:Generator_ColumnPropNameInTable="LeaderCommentColumn" msprop:Generator_UserColumnName="LeaderComment" type="xs:string" minOccurs="0" />
+              <xs:element name="ProManagerComment" msprop:Generator_ColumnVarNameInTable="columnProManagerComment" msprop:Generator_ColumnPropNameInRow="ProManagerComment" msprop:Generator_ColumnPropNameInTable="ProManagerCommentColumn" msprop:Generator_UserColumnName="ProManagerComment" type="xs:string" minOccurs="0" />
+              <xs:element name="LeaderGradeValue" msprop:Generator_ColumnVarNameInTable="columnLeaderGradeValue" msprop:Generator_ColumnPropNameInRow="LeaderGradeValue" msprop:Generator_ColumnPropNameInTable="LeaderGradeValueColumn" msprop:Generator_UserColumnName="LeaderGradeValue" type="xs:string" minOccurs="0" />
+              <xs:element name="ProManagerValue" msprop:Generator_ColumnVarNameInTable="columnProManagerValue" msprop:Generator_ColumnPropNameInRow="ProManagerValue" msprop:Generator_ColumnPropNameInTable="ProManagerValueColumn" msprop:Generator_UserColumnName="ProManagerValue" type="xs:string" minOccurs="0" />
+              <xs:element name="ASS_Name" msprop:Generator_ColumnVarNameInTable="columnASS_Name" msprop:Generator_ColumnPropNameInRow="ASS_Name" msprop:Generator_ColumnPropNameInTable="ASS_NameColumn" msprop:Generator_UserColumnName="ASS_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="ASS_Remark" msprop:Generator_ColumnVarNameInTable="columnASS_Remark" msprop:Generator_ColumnPropNameInRow="ASS_Remark" msprop:Generator_ColumnPropNameInTable="ASS_RemarkColumn" msprop:Generator_UserColumnName="ASS_Remark" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PeromanceManger" msprop:Generator_TableClassName="PeromanceMangerDataTable" msprop:Generator_TableVarName="tablePeromanceManger" msprop:Generator_TablePropName="PeromanceManger" msprop:Generator_RowDeletingName="PeromanceMangerRowDeleting" msprop:Generator_RowChangingName="PeromanceMangerRowChanging" msprop:Generator_RowEvHandlerName="PeromanceMangerRowChangeEventHandler" msprop:Generator_RowDeletedName="PeromanceMangerRowDeleted" msprop:Generator_UserTableName="PeromanceManger" msprop:Generator_RowChangedName="PeromanceMangerRowChanged" msprop:Generator_RowEvArgName="PeromanceMangerRowChangeEvent" msprop:Generator_RowClassName="PeromanceMangerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="UserNo" msprop:Generator_ColumnVarNameInTable="columnUserNo" msprop:Generator_ColumnPropNameInRow="UserNo" msprop:Generator_ColumnPropNameInTable="UserNoColumn" msprop:Generator_UserColumnName="UserNo" type="xs:string" minOccurs="0" />
+              <xs:element name="UserName" msprop:Generator_ColumnVarNameInTable="columnUserName" msprop:Generator_ColumnPropNameInRow="UserName" msprop:Generator_ColumnPropNameInTable="UserNameColumn" msprop:Generator_UserColumnName="UserName" type="xs:string" minOccurs="0" />
+              <xs:element name="YearMonth" msprop:Generator_ColumnVarNameInTable="columnYearMonth" msprop:Generator_ColumnPropNameInRow="YearMonth" msprop:Generator_ColumnPropNameInTable="YearMonthColumn" msprop:Generator_UserColumnName="YearMonth" type="xs:string" minOccurs="0" />
+              <xs:element name="IndividualReviews" msprop:Generator_ColumnVarNameInTable="columnIndividualReviews" msprop:Generator_ColumnPropNameInRow="IndividualReviews" msprop:Generator_ColumnPropNameInTable="IndividualReviewsColumn" msprop:Generator_UserColumnName="IndividualReviews" type="xs:string" minOccurs="0" />
+              <xs:element name="LeaderComment" msprop:Generator_ColumnVarNameInTable="columnLeaderComment" msprop:Generator_ColumnPropNameInRow="LeaderComment" msprop:Generator_ColumnPropNameInTable="LeaderCommentColumn" msprop:Generator_UserColumnName="LeaderComment" type="xs:string" minOccurs="0" />
+              <xs:element name="ProManagerComment" msprop:Generator_ColumnVarNameInTable="columnProManagerComment" msprop:Generator_ColumnPropNameInRow="ProManagerComment" msprop:Generator_ColumnPropNameInTable="ProManagerCommentColumn" msprop:Generator_UserColumnName="ProManagerComment" type="xs:string" minOccurs="0" />
+              <xs:element name="LeaderGradeValue" msprop:Generator_ColumnVarNameInTable="columnLeaderGradeValue" msprop:Generator_ColumnPropNameInRow="LeaderGradeValue" msprop:Generator_ColumnPropNameInTable="LeaderGradeValueColumn" msprop:Generator_UserColumnName="LeaderGradeValue" type="xs:string" minOccurs="0" />
+              <xs:element name="ProManagerValue" msprop:Generator_ColumnVarNameInTable="columnProManagerValue" msprop:Generator_ColumnPropNameInRow="ProManagerValue" msprop:Generator_ColumnPropNameInTable="ProManagerValueColumn" msprop:Generator_UserColumnName="ProManagerValue" type="xs:string" minOccurs="0" />
+              <xs:element name="ASS_Name" msprop:Generator_ColumnVarNameInTable="columnASS_Name" msprop:Generator_ColumnPropNameInRow="ASS_Name" msprop:Generator_ColumnPropNameInTable="ASS_NameColumn" msprop:Generator_UserColumnName="ASS_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="ASS_Remark" msprop:Generator_ColumnVarNameInTable="columnASS_Remark" msprop:Generator_ColumnPropNameInRow="ASS_Remark" msprop:Generator_ColumnPropNameInTable="ASS_RemarkColumn" msprop:Generator_UserColumnName="ASS_Remark" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
