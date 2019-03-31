@@ -1,0 +1,38 @@
+D:\code\IT_ProjectManager\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.dll
+D:\code\IT_ProjectManager\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.pdb
+D:\code\IT_ProjectManager\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.xml
+D:\code\IT_ProjectManager\IT_ProjectManager\FTPClient\obj\Debug\ResolveAssemblyReference.cache
+D:\code\IT_ProjectManager\IT_ProjectManager\FTPClient\obj\Debug\clsFTPHelper.Resources.resources
+D:\code\IT_ProjectManager\IT_ProjectManager\FTPClient\obj\Debug\GenerateResource.read.1.tlog
+D:\code\IT_ProjectManager\IT_ProjectManager\FTPClient\obj\Debug\GenerateResource.write.1.tlog
+D:\code\IT_ProjectManager\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.dll
+D:\code\IT_ProjectManager\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.xml
+D:\code\IT_ProjectManager\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.pdb
+E:\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.dll
+E:\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.pdb
+E:\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.xml
+E:\IT_ProjectManager\FTPClient\obj\Debug\ResolveAssemblyReference.cache
+E:\IT_ProjectManager\FTPClient\obj\Debug\clsFTPHelper.Resources.resources
+E:\IT_ProjectManager\FTPClient\obj\Debug\GenerateResource.read.1.tlog
+E:\IT_ProjectManager\FTPClient\obj\Debug\GenerateResource.write.1.tlog
+E:\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.dll
+E:\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.xml
+E:\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.pdb
+E:\Not VSSCode\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.dll
+E:\Not VSSCode\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.pdb
+E:\Not VSSCode\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.xml
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Debug\ResolveAssemblyReference.cache
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Debug\clsFTPHelper.Resources.resources
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Debug\GenerateResource.read.1.tlog
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Debug\GenerateResource.write.1.tlog
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.dll
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.xml
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.pdb
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.dll
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.pdb
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\bin\Debug\FTPClient.xml
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\obj\Debug\clsFTPHelper.Resources.resources
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.dll
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.xml
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\obj\Debug\FTPClient.pdb

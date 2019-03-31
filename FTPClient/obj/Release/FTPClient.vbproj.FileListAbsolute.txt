@@ -1,0 +1,60 @@
+E:\IT_ProjectManager\FTPClient\bin\Release\FTPClient.dll
+E:\IT_ProjectManager\FTPClient\bin\Release\FTPClient.pdb
+E:\IT_ProjectManager\FTPClient\bin\Release\FTPClient.xml
+E:\IT_ProjectManager\FTPClient\obj\Release\ResolveAssemblyReference.cache
+E:\IT_ProjectManager\FTPClient\obj\Release\clsFTPHelper.Resources.resources
+E:\IT_ProjectManager\FTPClient\obj\Release\GenerateResource.read.1.tlog
+E:\IT_ProjectManager\FTPClient\obj\Release\GenerateResource.write.1.tlog
+E:\IT_ProjectManager\FTPClient\obj\Release\FTPClient.dll
+E:\IT_ProjectManager\FTPClient\obj\Release\FTPClient.xml
+E:\IT_ProjectManager\FTPClient\obj\Release\FTPClient.pdb
+E:\Not VSSCode\IT_ProjectManager\FTPClient\bin\Release\FTPClient.dll
+E:\Not VSSCode\IT_ProjectManager\FTPClient\bin\Release\FTPClient.pdb
+E:\Not VSSCode\IT_ProjectManager\FTPClient\bin\Release\FTPClient.xml
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Release\ResolveAssemblyReference.cache
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Release\clsFTPHelper.Resources.resources
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Release\GenerateResource.read.1.tlog
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Release\GenerateResource.write.1.tlog
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Release\FTPClient.dll
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Release\FTPClient.xml
+E:\Not VSSCode\IT_ProjectManager\FTPClient\obj\Release\FTPClient.pdb
+F:\SharedFiles\IT_ProjectManager\FTPClient\bin\Release\FTPClient.dll
+F:\SharedFiles\IT_ProjectManager\FTPClient\bin\Release\FTPClient.pdb
+F:\SharedFiles\IT_ProjectManager\FTPClient\bin\Release\FTPClient.xml
+F:\SharedFiles\IT_ProjectManager\FTPClient\obj\Release\clsFTPHelper.Resources.resources
+F:\SharedFiles\IT_ProjectManager\FTPClient\obj\Release\FTPClient.vbproj.GenerateResource.Cache
+F:\SharedFiles\IT_ProjectManager\FTPClient\obj\Release\FTPClient.dll
+F:\SharedFiles\IT_ProjectManager\FTPClient\obj\Release\FTPClient.xml
+F:\SharedFiles\IT_ProjectManager\FTPClient\obj\Release\FTPClient.pdb
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\bin\Release\FTPClient.dll
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\bin\Release\FTPClient.pdb
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\bin\Release\FTPClient.xml
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\obj\Release\clsFTPHelper.Resources.resources
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\obj\Release\FTPClient.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\obj\Release\FTPClient.dll
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\obj\Release\FTPClient.xml
+C:\Users\Administrator\Desktop\20160726\IT_ProjectManager\FTPClient\obj\Release\FTPClient.pdb
+E:\prj\IT_ProjectManager\FTPClient\bin\Release\FTPClient.dll
+E:\prj\IT_ProjectManager\FTPClient\bin\Release\FTPClient.pdb
+E:\prj\IT_ProjectManager\FTPClient\bin\Release\FTPClient.xml
+E:\prj\IT_ProjectManager\FTPClient\obj\Release\clsFTPHelper.Resources.resources
+E:\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.vbproj.GenerateResource.Cache
+E:\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.dll
+E:\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.xml
+E:\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.pdb
+E:\28\prj\IT_ProjectManager\FTPClient\bin\Release\FTPClient.dll
+E:\28\prj\IT_ProjectManager\FTPClient\bin\Release\FTPClient.pdb
+E:\28\prj\IT_ProjectManager\FTPClient\bin\Release\FTPClient.xml
+E:\28\prj\IT_ProjectManager\FTPClient\obj\Release\clsFTPHelper.Resources.resources
+E:\28\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.vbproj.GenerateResource.Cache
+E:\28\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.dll
+E:\28\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.xml
+E:\28\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.pdb
+E:\prj29\prj\IT_ProjectManager\FTPClient\bin\Release\FTPClient.dll
+E:\prj29\prj\IT_ProjectManager\FTPClient\bin\Release\FTPClient.pdb
+E:\prj29\prj\IT_ProjectManager\FTPClient\bin\Release\FTPClient.xml
+E:\prj29\prj\IT_ProjectManager\FTPClient\obj\Release\clsFTPHelper.Resources.resources
+E:\prj29\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.vbproj.GenerateResource.Cache
+E:\prj29\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.dll
+E:\prj29\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.xml
+E:\prj29\prj\IT_ProjectManager\FTPClient\obj\Release\FTPClient.pdb
